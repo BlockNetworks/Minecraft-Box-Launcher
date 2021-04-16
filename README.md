@@ -13,17 +13,13 @@
 The **Minecraft Box** is a modern Minecraft launcher, designed to provide integrations with multiple Minecraft services, configurations and thirs party software. The launcher is made with web technologies including electronJS.
 
 ## Usage
-First clone the repository.
 
-**`git clone https://github.com/BlockNetworks/Minecraft-Box-Launcher`**
-
-Then install the required node modules.
-
-**`npm install`**
-
-Now, start the program with the following command:
-
-**`npm start`**
+```
+git clone https://github.com/BlockNetworks/Minecraft-Box-Launcher
+npm install
+npm run-script dist
+npm start
+```
 
 ## Features
 Symbol	| Meaning
