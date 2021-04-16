@@ -17,7 +17,7 @@ The **Minecraft Box** is a modern Minecraft launcher, designed to provide integr
 ```
 git clone https://github.com/BlockNetworks/Minecraft-Box-Launcher
 npm install
-npm run-script dist
+npm run prod
 npm start
 ```
 
